@@ -1,5 +1,5 @@
 .pypirc
-*.pyc
+# *.pyc
 *~
 GPATH
 GRTAGS
@@ -9,7 +9,7 @@ esptool.egg-info
 build
 dist
 local.mk
-
+__pycache__
 .envrc
 report.xml
 

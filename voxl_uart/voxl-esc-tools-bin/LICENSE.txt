@@ -1,0 +1,1 @@
+Binaries in this directory are licensed under https://developer.modalai.com/public/2019.05.22_QTI_EULA_MODALAI.pdf
